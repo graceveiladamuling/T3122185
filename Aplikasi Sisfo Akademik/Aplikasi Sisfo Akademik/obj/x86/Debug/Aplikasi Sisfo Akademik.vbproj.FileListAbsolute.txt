@@ -1,0 +1,8 @@
+C:\Users\leb SE\Documents\Visual Studio 2010\Projects\graceT3122185\Visual1T3122185\Aplikasi Sisfo Akademik\Aplikasi Sisfo Akademik\obj\x86\Debug\Aplikasi_Sisfo_Akademik.frmLogin.resources
+C:\Users\leb SE\Documents\Visual Studio 2010\Projects\graceT3122185\Visual1T3122185\Aplikasi Sisfo Akademik\Aplikasi Sisfo Akademik\obj\x86\Debug\Aplikasi_Sisfo_Akademik.frmListUser.resources
+C:\Users\leb SE\Documents\Visual Studio 2010\Projects\graceT3122185\Visual1T3122185\Aplikasi Sisfo Akademik\Aplikasi Sisfo Akademik\obj\x86\Debug\Aplikasi_Sisfo_Akademik.frmMenuAdmin.resources
+C:\Users\leb SE\Documents\Visual Studio 2010\Projects\graceT3122185\Visual1T3122185\Aplikasi Sisfo Akademik\Aplikasi Sisfo Akademik\obj\x86\Debug\Aplikasi_Sisfo_Akademik.Resources.resources
+C:\Users\leb SE\Documents\Visual Studio 2010\Projects\graceT3122185\Visual1T3122185\Aplikasi Sisfo Akademik\Aplikasi Sisfo Akademik\obj\x86\Debug\Aplikasi Sisfo Akademik.vbproj.GenerateResource.Cache
+C:\Users\leb SE\Documents\Visual Studio 2010\Projects\graceT3122185\Visual1T3122185\Aplikasi Sisfo Akademik\Aplikasi Sisfo Akademik\obj\x86\Debug\Aplikasi_Sisfo_Akademik.formEntryUser.resources
+C:\Users\leb SE\Documents\Visual Studio 2010\Projects\graceT3122185\Visual1T3122185\Aplikasi Sisfo Akademik\Aplikasi Sisfo Akademik\obj\x86\Debug\Aplikasi_Sisfo_Akademik.frmListMhs.resources
+C:\Users\leb SE\Documents\Visual Studio 2010\Projects\graceT3122185\Visual1T3122185\Aplikasi Sisfo Akademik\Aplikasi Sisfo Akademik\obj\x86\Debug\Aplikasi_Sisfo_Akademik.frmEntryUser.resources
