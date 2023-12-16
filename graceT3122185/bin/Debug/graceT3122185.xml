@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+graceT3122185
+</name>
+</assembly>
+<members>
+<member name="P:graceT3122185.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:graceT3122185.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:graceT3122185.My.Resources.Resources.WhatsApp_Image_2023_09_08_at_17_32_04__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:graceT3122185.My.Resources.Resources.WhatsApp_Image_2023_09_08_at_17_38_49">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:graceT3122185.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
